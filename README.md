@@ -5,7 +5,7 @@ Neste curso foi abordado:
 - Simplificando a organização de arquivos CSS.
 - Criando arquiteturas CSS simples e robusta.
 - Aprendendo boas práticas e metodologias sobre CSS.
-- Deixando o seu site responsivo.
+- Deixando o site responsivo.
 
 # Layout do Projeto
 
