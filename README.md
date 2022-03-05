@@ -10,5 +10,5 @@ Neste curso foi abordado:
 # Layout do Projeto
 
 <h1>
-    <img width="605px" src="https://media.giphy.com/media/M988kALVi4kiEi8KOV/giphy.gif">
+    <img width="509px" src="https://media.giphy.com/media/M988kALVi4kiEi8KOV/giphy.gif">
 </h1>
